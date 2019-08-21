@@ -20,7 +20,7 @@ public class IteratorClient
     channels.addChannel(new Channel("DD2"));
     channels.addChannel(new Channel("DDNEWS"));
 
-    final ChannelIterator channelIterator = channels.iterator();
+    ChannelIterator channelIterator = channels.iterator();
     while (channelIterator.hasNext())
     {
       Channel c = channelIterator.next();

@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cab45e62-55cb-4e19-b531-34844f354959" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/ChannelCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/ChannelCollectionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/ChannelIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/ChannelIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/IteratorClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/AndExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/AndExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/Expression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/InterpreterPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/InterpreterPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/OrExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/OrExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/TerminalExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/Interpreter/TerminalExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/CommandPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/CommandPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/SwitchOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/SwitchOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/SwitchOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/command/SwitchOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/IteratorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/IteratorClient.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/IteratorClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="26" column="36" selection-end-line="31" />
+            <state relative-caret-position="216">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -258,6 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -345,12 +332,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566191486308</updated>
       <workItem from="1566191488145" duration="8840000" />
-      <workItem from="1566278308795" duration="1635000" />
+      <workItem from="1566278308795" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10475000" />
+    <option name="totallyTimeSpent" value="11383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
@@ -608,8 +595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/behavioural/iterator/IteratorClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="26" column="36" selection-end-line="31" />
+        <state relative-caret-position="216">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
