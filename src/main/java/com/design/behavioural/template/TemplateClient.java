@@ -1,6 +1,6 @@
 package com.design.behavioural.template;
 
-public class TemplatePattern
+public class TemplateClient
 {
   public static void main(String[] args)
   {

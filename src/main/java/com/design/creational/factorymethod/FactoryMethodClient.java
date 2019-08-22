@@ -1,6 +1,6 @@
 package com.design.creational.factorymethod;
 
-public class FactoryMethodPattern
+public class FactoryMethodClient
 {
   public static void main(String[] args)
   {

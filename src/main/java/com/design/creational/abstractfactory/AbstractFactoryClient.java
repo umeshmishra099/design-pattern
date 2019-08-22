@@ -1,6 +1,6 @@
 package com.design.creational.abstractfactory;
 
-public class AbstractFactoryPattern
+public class AbstractFactoryClient
 {
   public static void main(String[] args)
   {

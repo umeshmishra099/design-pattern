@@ -6,7 +6,7 @@ What problems can the Interpreter design pattern solve?
 1) A grammar for a simple language should be defined
 2) so that sentences in the language can be interpreted.
  */
-public class InterpreterPattern
+public class InterpreterClient
 {
   public static void main(String[] args)
   {

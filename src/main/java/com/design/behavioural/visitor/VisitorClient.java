@@ -3,7 +3,7 @@ package com.design.behavioural.visitor;
 import com.design.behavioural.visitor.credit.*;
 import com.design.behavioural.visitor.offer.HotelVisitorOffer;
 
-public class VisitorPattern
+public class VisitorClient
 {
   public static void main(String[] args)
   {

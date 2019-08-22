@@ -2,7 +2,7 @@ package com.design.creational.objectpool;
 
 import java.sql.Connection;
 
-public class ObjectPoolPattern
+public class ObjectPoolClient
 {
   public static void main(String[] args)
   {

@@ -1,6 +1,6 @@
 package com.design.behavioural.observer;
 
-public class ObserverPattern
+public class ObserverClient
 {
   public static void main(String[] args)
   {

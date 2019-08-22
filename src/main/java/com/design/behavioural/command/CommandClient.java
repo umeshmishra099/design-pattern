@@ -1,6 +1,6 @@
 package com.design.behavioural.command;
 
-public class CommandPattern
+public class CommandClient
 {
   public static void main(String[] args)
   {

@@ -1,6 +1,6 @@
 package com.design.creational.prototype;
 
-public class PrototypePattern
+public class PrototypeClient
 {
   public static void main(String[] args)
   {

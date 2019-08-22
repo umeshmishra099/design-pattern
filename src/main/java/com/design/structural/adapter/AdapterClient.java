@@ -5,7 +5,7 @@ package com.design.structural.adapter;
 1) How can a class be reused that does not have an interface that a client requires?
 2) How can classes that have incompatible interfaces work together?
 3) How can an alternative interface be provided for a class?*/
-public class AdapterPattern
+public class AdapterClient
 {
   public static void main(String[] args)
   {

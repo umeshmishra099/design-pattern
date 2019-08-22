@@ -1,6 +1,6 @@
 package com.design.creational.factory;
 
-public class FactoryPattern
+public class FactoryClient
 {
   public static void main(String[] args)
   {
